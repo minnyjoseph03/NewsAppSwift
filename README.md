@@ -15,7 +15,7 @@ This iOS application fetches and displays news articles from an external API. Us
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/minnyjoseph03/NewsAppSwift.git
    ```
 2. Open the project in Xcode:
    ```sh
