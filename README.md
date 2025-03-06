@@ -19,8 +19,8 @@ This iOS application fetches and displays news articles from an external API. Us
    ```
 2. Open the project in Xcode:
    ```sh
-   cd iOS-News-API
-   open NewsAPI.xcodeproj
+   cd NewsAppSwift
+   open NewsAppSwift.xcodeproj
    ```
 3. Install dependencies (if any) using CocoaPods or Swift Package Manager.
 4. Replace `YOUR_API_KEY` in the code with your actual API key.
